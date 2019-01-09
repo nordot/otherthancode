@@ -2,9 +2,9 @@
 このリポジトリは、ノアドット株式会社がソースコード以外の文書を公開するものです。
 
 - 会社関係
-  - [社員就業規則](employeehandbook.md)
   - [ノアドット社でのおしごと](workingatnordot.md)
-  - [メンバー](ourteam.md)
+    - [メンバー](ourteam.md)
+  - [社員就業規則](employeehandbook.md)
 
 - サービス関係
   - 日本語
