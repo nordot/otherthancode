@@ -135,7 +135,7 @@
 	- *「open」チャンネルをSlack APIでウェブ上に一般公開予定*
 - ストック情報：Confluence
 - タスク管理：Trello
-	- なお、Board「[nor.改善計画](https://trello.com/b/SCv8nXo8/nor%E6%94%B9%E5%96%84%E8%A8%88%E7%94%BB)」については、埋め込みコードでウェブ上に一般公開中。
+	- なお、Board「[nor.改善計画](https://trello.com/b/SCv8nXo8/nor%E6%94%B9%E5%96%84%E8%A8%88%E7%94%BB)」については一般公開中。
 - ファイル管理：Dropbox
 - メール：Gmail（G Suite）
 - 予定：Googleカレンダー（G Suite）
