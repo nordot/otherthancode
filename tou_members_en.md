@@ -82,6 +82,7 @@ The purpose of these TOU is to set forth the terms of use of the Service and acq
 		1. Information which is likely to be unduly harmful to other Members, Publishers, Media Units or Nordot.
 	1. Member represents and warrants that none of his/her Content will be created for the purpose of advertising a third party (except when cases where Nordot provides prior written consent for such content)
 	1. Member represents and warrants that it will not store articles created by a third party and/or published as the third party's work as Content.
+	1. Member represents and warrants that it agrees to comply with the [Content Guidelines for the nor. Service](https://github.com/nordot/otherthancode/blob/master/guidelines_en.md)
 
 1. **Modification or deletion of Stories**
 	1. Member shall promptly take necessary measures, such as modification or deletion of the relevant Content, when:
