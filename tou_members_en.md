@@ -140,7 +140,7 @@ Notice to be given by Nordot or Member to the other party under these TOU shall 
 		1. information that enters the public domain after disclosure through no fault of the receiving party.
 
 1. **Management of personal information**  
-In connection with provision of the Service, Nordot shall use your personal information and browsing data collected within the Service, in accordance with our [Privacy Policy](https://www.nordot.jp/privacy_en), which is hereby incorporated into, and forms part of, these Terms. You can manage your privacy settings in [Privacy Policy](https://www.nordot.jp/privacy_en).
+In connection with provision of the Service, Nordot shall use your personal information and browsing data collected within the Service, in accordance with our [Privacy Policy](https://github.com/nordot/otherthancode/blob/master/privacy_en.md), which is hereby incorporated into, and forms part of, these Terms. You can manage your privacy settings in [Privacy Policy](https://github.com/nordot/otherthancode/blob/master/privacy_en.md).
 
 1. **No assignment**  
 Neither Member nor Nordot may assign, or give as security, their contractual status or all or part of their rights and obligations arising under these TOU to any third party, without prior written approval of the other party. Notwithstanding the foregoing, this Section 22 shall not limit any of the rights of Nordot provided in Section 16.
@@ -196,7 +196,7 @@ Establishment, effect, performance and interpretation of this Agreement shall be
 	1. Nordot may revise these TOU at any time whenever Nordot, in its sole and absolute discretion, deems such revision appropriate. The revised TOU shall become effective and this Agreement shall be revised according to the revised TOU when it appears on the Service, the nordot.jp website, or such other system designated by Nordot, unless otherwise specified by Nordot. Notwithstanding the foregoing, revision of important provisions of these TOU (as determined by Nordot in its sole discretion) shall be announced to Member in advance in a method designated by Nordot, such as in an announcement on a system designated by Nordot.
 	1. The failure of Nordot at any time to enforce any right or remedy available to it under this Agreement with respect to any breach or failure by Member shall not be construed to be a waiver of such right or remedy with respect to such breach or failure or any other breach or failure by Member.
 	1. Revision of a part of these TOU shall not affect the validity of the remaining provisions.
-	1. Nordot's [Privacy Policy](https://www.nordot.jp/privacy_en) is hereby incorporated into, and forms part of, these TOU.
+	1. Nordot's [Privacy Policy](https://github.com/nordot/otherthancode/blob/master/privacy_en.md) is hereby incorporated into, and forms part of, these TOU.
 
 1. **Entire Agreement**  
 This Agreement constitutes the entire agreement between Member and Nordot and supersedes any prior written or oral agreements between
