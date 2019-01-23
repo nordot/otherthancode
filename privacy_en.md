@@ -19,7 +19,7 @@ following:
 
 #### The nor. service and the this.kiji.is platform
 ##### i.
-|Cookie Name|_policy_accepted|
+|Cookie Name|www.nordot.jp|
 |:--|:--|
 |Duration|100 years|
 |Why we use this cookie|To store your consent status on our Terms of Use for Users|
