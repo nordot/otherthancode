@@ -16,7 +16,7 @@
 
 #### サービス：nor.およびthis.kiji.is
 ##### i.
-|クッキーの名前|_policy_accepted|
+|クッキーの名前|www.nordot.jp|
 |:--|:--|
 |クッキーの有効期限|100年|
 |クッキー取得と利用の目的|[nor.利用規約](https://github.com/nordot/otherthancode/blob/master/terms_users_ja.md)への同意状況を保管するため。|
