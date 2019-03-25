@@ -1,4 +1,4 @@
-## Privacy Policy
+## Privacy Policy for the nor. Service
 Nordot values and respects your privacy. Nordot Inc. ("Nordot", "we", "us", and "our") has established this Privacy Policy (this "Policy") for the nor. service we provide (the "Service"). This Policy forms part of, and is incorporated into, our [Terms of Use for Users](https://github.com/nordot/otherthancode/blob/master/terms_users_en.md) , [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md) , and [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md) .
 
 ### Definition of the Service
