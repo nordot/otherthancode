@@ -1,4 +1,4 @@
-## Terms of Use for Members
+## Nordot Terms of Use for Members
 
 Updated on Feb 1, 2019
 
