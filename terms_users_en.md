@@ -1,4 +1,4 @@
-## Terms of Use for Users (Other than Members or Publishers)
+## Nordot Terms of Use for Users (Other than Members or Publishers)
 
 Updated on May 24, 2018
 
