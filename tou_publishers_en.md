@@ -1,4 +1,4 @@
-## Terms of Use for Publishers
+## Nordot Terms of Use for Publishers
 
 Updated on Feb 1, 2019
 
