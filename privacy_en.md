@@ -183,9 +183,6 @@ Nordot may have affiliate relationships with other service providers in order to
 - Outbrain Inc.
 	- [Privacy Policy and Opt-out](https://www.outbrain.com/legal/privacy#privacy-policy)
 
-- Intimate Merger Inc.
-	- [Privacy Policy and Opt-out](https://corp.intimatemerger.com/sub/privacypolicy/)
-
 - popIn Inc.
 	- [Privacy Policy and Opt-out](http://www.popin.cc/home/privacyNotice.html)
 
