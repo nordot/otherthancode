@@ -185,9 +185,6 @@
 - アウトブレイン ジャパン株式会社
 	- [プライバシーポリシーおよびオプトアウト](https://www.outbrain.com/legal/privacy#privacy-policy)
 
-- 株式会社インティメート・マージャー
-	- [プライバシーポリシーおよびオプトアウト](https://corp.intimatemerger.com/sub/privacypolicy/)
-
 - popIn株式会社
 	- [プライバシーポリシーおよびオプトアウト](https://www.popin.cc/home/privacy.html)
 
