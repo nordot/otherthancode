@@ -1,3 +1,5 @@
+[English](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md)
+
 ## nor.パブリッシャー利用約款
 この約款（以下「本約款」といいます）は、ノアドット株式会社（以下「ノアドット」といいます）と、ノアドットが運営するサービス「nor.」の利用を通じて取得した収益を受け取る者（以下「パブリッシャー」といいます）との間で適用されます。
 
