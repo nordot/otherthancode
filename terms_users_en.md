@@ -1,3 +1,5 @@
+[日本語](https://github.com/nordot/otherthancode/blob/master/terms_users_ja.md)
+
 ## Nordot Terms of Use for Users (Other than Members or Publishers)
 
 Updated on May 24, 2018
