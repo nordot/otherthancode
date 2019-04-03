@@ -1,3 +1,5 @@
+[English](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md)
+
 ## nor.メンバー利用約款
 この約款（以下「本約款」といいます）は、ノアドット株式会社（以下「ノアドット」といいます）と、ノアドットが運営するサービス「nor.」の利用者（以下「メンバー」といいます）との間で適用されます。
 
