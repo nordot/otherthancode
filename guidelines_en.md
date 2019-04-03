@@ -1,3 +1,5 @@
+[日本語](https://github.com/nordot/otherthancode/blob/master/guidelines_ja.md)
+
 ## Content Guidelines for the nor. Service
 These Guidelines apply to any person or entity ( "you ") who distribute content through the nor. service (the "Service ") provided by Nordot Inc., a Japanese joint-stock corporation ( "Nordot ", "we ", "us ", and "our "). You must agree to comply with these Content Guidelines if you upload or transfer content to, or otherwise create content on, the Service. These Content Guidelines form part of, and are incorporated by reference into, our Terms of Use for Publishers. Capitalized terms used in these Content Guidelines that are not defined herein have the meanings assigned to them in the [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md) and the [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md).
 
