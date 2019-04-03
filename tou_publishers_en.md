@@ -1,3 +1,5 @@
+[日本語](https://github.com/nordot/otherthancode/blob/master/tou_publishers_ja.md)
+
 ## Nordot Terms of Use for Publishers
 
 Updated on Feb 1, 2019
