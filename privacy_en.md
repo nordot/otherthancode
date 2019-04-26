@@ -21,17 +21,6 @@ following:
 
 #### The nor. service and the this.kiji.is platform
 ##### i.
-|Cookie Name|www.nordot.jp|
-|:--|:--|
-|Duration|100 years|
-|Why we use this cookie|To store your consent status on our Terms of Use for Users|
-|If you wish to block this cookie|You can refuse the cookie if you choose not to agree with our [Terms of Use for Users](https://github.com/nordot/otherthancode/blob/master/terms_users_en.md)|
-|How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
-|If you wish us to disclose your browsing data to you or make a correction for you|n/a|
-|If you wish us to delete your browsing data|n/a|
-|If you wish us to export your browsing data|n/a|
-
-##### ii.
 |Cookie Name|_ga|
 |:--|:--|
 |Duration|2 years|
@@ -42,7 +31,7 @@ following:
 |If you wish us to delete your browsing data|Same as above|
 |If you wish us to export your browsing data|Same as above|
 
-##### iii.
+##### ii.
 |Cookie Name|_gid|
 |:--|:--|
 |Duration|24 hours|
@@ -53,7 +42,7 @@ following:
 |If you wish us to delete your browsing data|Same as above|
 |If you wish us to export your browsing data|Same as above|
 
-##### iv.
+##### iii.
 |Cookie Name|_gat|
 |:--|:--|
 |Duration|1 minute|
@@ -64,13 +53,25 @@ following:
 |If you wish us to delete your browsing data|Same as above|
 |If you wish us to export your browsing data|Same as above|
 
-##### v.
+##### iv.
 |Identification information of your PC or browser|Access log|
 |:--|:--|
 |Why we collect your access information|- To create content performance reports to the nor. Service customers<br>- To have statistics available of the nor. Service and prevent bugs and errors|
 |If you do not wish to have your access information collected|We store your access information in web server logs, which are records of activities on our sites. These records are essential to measure our site performance and conditions, and therefore we won't be able to disable its collection.|
 |How long and where the browsing data will be stored|30 days with Google Cloud Platform provided by Google LLC|
 |If you wish us to disclose your browsing data to you or make a correction for you|We cannot change or disclose to you such data because we store this data as anonymous data, meaning it is not associated with or linked to your personal data.|
+|If you wish us to delete your browsing data|n/a|
+|If you wish us to export your browsing data|n/a|
+
+#### The this.kiji.is platform
+##### v.
+|Cookie Name|policy_accepted|
+|:--|:--|
+|Duration|100 years|
+|Why we use this cookie|To store your consent status on our Terms of Use for Users|
+|If you wish to block this cookie|You can refuse the cookie if you choose not to agree with our [Terms of Use for Users](https://github.com/nordot/otherthancode/blob/master/terms_users_en.md)|
+|How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
+|If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
 |If you wish us to export your browsing data|n/a|
 
@@ -97,6 +98,17 @@ following:
 
 #### The nor. Service
 ##### viii.
+|Cookie Name|www.nordot.jp|
+|:--|:--|
+|Duration|100 years|
+|Why we use this cookie|To store your consent status on our Terms of Use for Users|
+|If you wish to block this cookie|You can refuse the cookie if you choose not to agree with our [Terms of Use for Users](https://github.com/nordot/otherthancode/blob/master/terms_users_en.md)|
+|How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
+|If you wish us to disclose your browsing data to you or make a correction for you|n/a|
+|If you wish us to delete your browsing data|n/a|
+|If you wish us to export your browsing data|n/a|
+
+##### ix.
 |Cookie Name|publisher_id|
 |:--|:--|
 |Duration|14 days|
@@ -107,7 +119,7 @@ following:
 |If you wish us to delete your browsing data|n/a|
 |If you wish us to export your browsing data|n/a|
 
-##### ix.
+##### x.
 |Cookie Name|login|
 |:--|:--|
 |Duration|14 days|
