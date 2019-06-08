@@ -91,7 +91,7 @@
 
 ## ■ 採用
 - 必要に応じて、一定程度までは増やす。
-	- 応募資格：中学校卒業など前期中等教育（Lower secondary education or second stage of basic education）を修了していること。
+	- 応募資格：前期中等教育（Lower secondary education or second stage of basic education）の修了。日本においては中学校の卒業などが該当。
 - 事業の安定性が高まった後は徐々に社員を減らし、最後は0人にすることを目指す。
 
 関連→[コンセプト - nor. | ノアドット株式会社](https://www.nordot.jp/whynordot)
