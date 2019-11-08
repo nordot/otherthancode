@@ -131,7 +131,7 @@ following:
 |If you wish us to export your browsing data|n/a|
 
 ### Definition of Personal Information
-"Personal information" refers to any information relating to a living individual identifiable by name, date of birth, or other descriptive characteristics contained in said information (including information which can be easily correlated with other information, thereby making a specific individual identifiable).
+"Personal information" refers to any information relating to a living individual identifiable by name, date of birth, other descriptive characteristics contained in said information (including information which can be easily correlated with other information, thereby making a specific individual identifiable), or an individual identification code which is defined in the Act on the Protection of Personal Information (Japan).
 
 ### Collection and Usage of Personal Information
 In the following cases, Nordot may collect and use your personal information:
