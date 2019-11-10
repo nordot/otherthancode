@@ -1,11 +1,11 @@
 [日本語](https://github.com/nordot/otherthancode/blob/master/privacy_ja.md)
 
-## Privacy Policy for the nor. Service
-Nordot values and respects your privacy. Nordot Inc. ("Nordot", "we", "us", and "our") has established this Privacy Policy (this "Policy") for the nor. service we provide (the "Service"). This Policy forms part of, and is incorporated into, our [Terms of Use for Users](https://github.com/nordot/otherthancode/blob/master/terms_users_en.md) , [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md) , and [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md) .
+## Nordot Privacy Policy
+Nordot values and respects your privacy. Nordot Inc. ("Nordot", "we", "us", and "our") has established this Privacy Policy (this "Policy") for the Nordot service we provide (the "Service"). This Policy forms part of, and is incorporated into, our [Terms of Use for Users](https://github.com/nordot/otherthancode/blob/master/terms_users_en.md) , [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md) , and [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md) .
 
 ### Definition of the Service
 "The Service" refers to:
-1. the nor. service, which allows Members whom agree to the [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md) and Publishers whom agree to the [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md) to store, retrieve, and distribute Content and to obtain profit through such activities under the terms set forth in these TOU;
+1. the Nordot service, which allows Members whom agree to the [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md) and Publishers whom agree to the [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md) to store, retrieve, and distribute Content and to obtain profit through such activities under the terms set forth in these TOU;
 1. the this.kiji.is platform, which allows Users whom agree to the [Terms of Use for Users](https://github.com/nordot/otherthancode/blob/master/terms_users_en.md) to enjoy content from multiple publishers.
 
 ### Cookies
@@ -19,12 +19,12 @@ Nordot may use cookies in the Service. A cookie is a small piece of text stored 
 Nordot shall collect and use your browsing data, based on cookies or non-cookie based data such as IP address or Geolocation as the
 following:
 
-#### The nor. service and the this.kiji.is platform
+#### The Nordot service and the this.kiji.is platform
 ##### i.
 |Cookie Name|_ga|
 |:--|:--|
 |Duration|2 years|
-|Why we use this cookie|To improve the nor. Service by measuring and analyzing end-users browsing habits|
+|Why we use this cookie|To improve the Service by measuring and analyzing end-users browsing habits|
 |If you wish to block this cookie|You can [opt out of Google Analytics](https://tools.google.com/dlpage/gaoptout).|
 |How long and where the browsing data will be stored|26 months with Google Analytics provided by Google LLC|
 |If you wish us to disclose your browsing data to you or make a correction for you|Please submit your inquiry to [Privacy Policy Inquiries](https://cms.nordot.jp/inquiry/corp)|
@@ -35,7 +35,7 @@ following:
 |Cookie Name|_gid|
 |:--|:--|
 |Duration|24 hours|
-|Why we use this cookie|To improve the nor. Service by measuring and analyzing end-users browsing habits|
+|Why we use this cookie|To improve the Service by measuring and analyzing end-users browsing habits|
 |If you wish to block this cookie|You can [opt out of Google Analytics](https://tools.google.com/dlpage/gaoptout).|
 |How long and where the browsing data will be stored|26 months with Google Analytics provided by Google LLC|
 |If you wish us to disclose your browsing data to you or make a correction for you|Please submit your inquiry to [Privacy Policy Inquiries](https://cms.nordot.jp/inquiry/corp)|
@@ -56,7 +56,7 @@ following:
 ##### iv.
 |Identification information of your PC or browser|Access log|
 |:--|:--|
-|Why we collect your access information|- To create content performance reports to the nor. Service customers<br>- To have statistics available of the nor. Service and prevent bugs and errors|
+|Why we collect your access information|- To create content performance reports to the Service customers<br>- To have statistics available of the Service and prevent bugs and errors|
 |If you do not wish to have your access information collected|We store your access information in web server logs, which are records of activities on our sites. These records are essential to measure our site performance and conditions, and therefore we won't be able to disable its collection.|
 |How long and where the browsing data will be stored|30 days with Google Cloud Platform provided by Google LLC|
 |If you wish us to disclose your browsing data to you or make a correction for you|We cannot change or disclose to you such data because we store this data as anonymous data, meaning it is not associated with or linked to your personal data.|
@@ -79,8 +79,8 @@ following:
 |Cookie Name|cmsfootage|
 |:--|:--|
 |Duration|2 years|
-|Why we use this cookie|To offer an improved UI for customers using the nor. Service as well as this.kiji.is platform|
-|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by this.kiji.is domain, which may significantly lower your nor. Service experience.<br>Please note that this cookie won't be issued toward users who have never used the nor. Service.|
+|Why we use this cookie|To offer an improved UI for customers using the Service as well as this.kiji.is platform|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by this.kiji.is domain, which may significantly lower your Service experience.<br>Please note that this cookie won't be issued toward users who have never used the Service.|
 |How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
 |If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
@@ -89,14 +89,14 @@ following:
 ##### vii.
 |Identification information of your PC or browser|Location data|
 |:--|:--|
-|Why we collect your location data|To create a content performance report to the nor. Service customers|
+|Why we collect your location data|To create a content performance report to the Service customers|
 |If you do not wish to have your location data collected|Blocking is possible through your browser.|
 |How long and where the browsing data will be stored|30 days with Google Cloud Platform provided by Google LLC|
 |If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
 |If you wish us to export your browsing data|n/a|
 
-#### The nor. Service
+#### The Nordot service
 ##### viii.
 |Cookie Name|www.nordot.jp|
 |:--|:--|
@@ -112,8 +112,8 @@ following:
 |Cookie Name|publisher_id|
 |:--|:--|
 |Duration|14 days|
-|Why we use this cookie|To display your last publisher account page that you used on the nor. Service dashboard|
-|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by cms.nordot.jp domain, which may significantly lower your nor. Service experience.|
+|Why we use this cookie|To display your last publisher account page that you used on the Nordot service dashboard|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by cms.nordot.jp domain, which may significantly lower your Nordot service experience.|
 |How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
 |If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
@@ -123,8 +123,8 @@ following:
 |Cookie Name|login|
 |:--|:--|
 |Duration|14 days|
-|Why we use this cookie|To keep log-in status for the nor. Service customers|
-|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by cms.nordot.jp domain, which may significantly lower your nor. Service experience.|
+|Why we use this cookie|To keep log-in status for the Nordot service customers|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by cms.nordot.jp domain, which may significantly lower your Nordot service experience.|
 |How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
 |If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
@@ -136,11 +136,11 @@ following:
 ### Collection and Usage of Personal Information
 In the following cases, Nordot may collect and use your personal information:
 
-#### Inquries to nor.
+#### Inquries to Nordot
 |Personal Information that you provide|- Name<br>- Email address|
 |:--|:--|
 |Why we need your personal information|To respond to your inquiry|
-|If you don't provide your personal information|When you're a customer of the nor. service, you may not make inquiries without providing us with your personal information. As for inquries to this.kiji.is platform, your personal information is not necessary.|
+|If you don't provide your personal information|When you're a customer of the Nordot service, you may not make inquiries without providing us with your personal information. As for inquries to this.kiji.is platform, your personal information is not necessary.|
 
 #### Member account registration
 |Personal Information that you provide|Email address|
@@ -163,8 +163,8 @@ In the following cases, Nordot may collect and use your personal information:
 #### Creating Member Profile
 |Personal Information that you provide|- Name<br>- Other applicable information that you provide|
 |:--|:--|
-|Why we need your personal information|To create your Publisher profile and present it to your potential customers within the scope of nor. Service|
-|If you don't provide your personal information|You can still use the nor. Service without providing us with the informaton.|
+|Why we need your personal information|To create your Publisher profile and present it to your potential customers within the scope of Nordot service|
+|If you don't provide your personal information|You can still use the Nordot service without providing us with the informaton.|
 
 ### Management of Personal Information
 Nordot shall handle your personal information securely and shall not corrupt the information or introduce errors into it. Nordot shall take reasonable and appropriate security measures to prevent loss, destruction, alteration, or leakage of your personal information. Nevertheless, such security measures cannot guarantee the prevention of all loss, misuse or alteration of personal information, and, to the fullest extent permitted by law, we hereby disclaim any and all liability and responsibility for any damages or losses you incur in connection with such loss, misuse or alteration. When required by law, we will notify you of any such loss, misuse or alteration that may affect you, so that you can take the appropriate action for the due protection of your rights.
