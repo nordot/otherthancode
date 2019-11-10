@@ -16,6 +16,6 @@
   - English
     - [Nordot Terms of Use for Members](tou_members_en.md)
     - [Nordot Terms of Use for Publishers](tou_publishers_en.md)
-    - [Nordot Content Guidelines](guidelines_ja.md)
+    - [Nordot Content Guidelines](guidelines_en.md)
     - [Nordot Privacy Policy](privacy_en.md)
     - [Nordot Terms of Use for Users (Other than Members or Publishers)](terms_users_en.md)
