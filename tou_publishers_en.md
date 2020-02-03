@@ -2,7 +2,7 @@
 
 ## Nordot Terms of Use for Publishers
 
-Updated on Jan 10, 2020
+Updated on Feb 3, 2020
 
 These Terms of Use (hereinafter referred to as these "TOU" or this "Agreement") shall apply between Nordot Inc., a Japanese joint-stock corporation (hereinafter referred to as "Nordot"), and you who obtains profit through, by uploading or transferring Content to, or otherwise creating Content on, the nor. Service, which is operated by Nordot, (hereinafter referred to as "Publisher"). For persons with respect to whom the foregoing sentence does not apply, the [Terms of Use for Users (Other than Members or Publishers)](https://www.nordot.jp/terms_user_en) govern your use of the Service.
 
