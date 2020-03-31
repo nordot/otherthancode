@@ -2,7 +2,7 @@
 
 ## Nordot Terms of Use for Members
 
-Updated on Feb 3, 2020
+Updated on Mar 31, 2020
 
 These Terms of Use (hereinafter referred to as these "TOU" or this "Agreement") shall apply between Nordot Inc., a Japanese joint-stock corporation (hereinafter referred to as "Nordot"), and you who uploads or transfers Content to, or otherwise creates Content on, the nor. Service, acting on behalf of one or more Publishers, (hereinafter referred to as "Member"). For persons with respect to whom the foregoing sentence does not apply, the [Terms of Use for Users (Other than Members or Publishers)](https://www.nordot.jp/terms_user_en) govern your use of the Service.
 
@@ -195,7 +195,7 @@ For any lawsuit arising out of or in connection with this Agreement, the Tokyo D
 Establishment, effect, performance and interpretation of this Agreement shall be governed by Japanese law.
 
 1. **This TOU**
-	1. Nordot may revise these TOU at any time whenever Nordot, in its sole and absolute discretion, deems such revision appropriate. The revised TOU shall become effective and this Agreement shall be revised according to the revised TOU when it appears on the Service, the nordot.jp website, or such other system designated by Nordot, unless otherwise specified by Nordot. Notwithstanding the foregoing, revision of important provisions of these TOU (as determined by Nordot in its sole discretion) shall be announced to Member in advance in a method designated by Nordot, such as in an announcement on a system designated by Nordot.
+	1. Nordot may revise these TOU by informing Member. The revised TOU shall become effective and this Agreement shall be revised according to the revised TOU when it appears on the Service, the nordot.jp website, or such other system designated by Nordot, unless otherwise specified by Nordot. Notwithstanding the foregoing, revision of important provisions of these TOU shall be announced to Member in advance in a method designated by Nordot, such as in an announcement on a system designated by Nordot. Member who begins using the Nodot services after the revised TOU becomes effective is considrered as agreed to the revised TOU.
 	1. The failure of Nordot at any time to enforce any right or remedy available to it under this Agreement with respect to any breach or failure by Member shall not be construed to be a waiver of such right or remedy with respect to such breach or failure or any other breach or failure by Member.
 	1. Revision of a part of these TOU shall not affect the validity of the remaining provisions.
 	1. Nordot's [Privacy Policy](https://github.com/nordot/otherthancode/blob/master/privacy_en.md) is hereby incorporated into, and forms part of, these TOU.
