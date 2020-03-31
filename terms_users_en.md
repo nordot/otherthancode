@@ -2,7 +2,7 @@
 
 ## Nordot Terms of Use for Users (Other than Members or Publishers)
 
-Updated on May 24, 2018
+Updated on Mar 31, 2020
 
 ### Purpose
 These Terms of Use for Users (Other than Members or Publishers) (these "Terms") shall apply to any person ("you") who views any content through, or accesses, the nor. service (the "Service") and its domain this.kiji.is provided by Nordot Inc., a Japanese joint-stock corporation ("Nordot", "we", "us", and "our"). You must agree to these Terms if you use the Service. However, if you upload or transfer content to, or otherwise create content on, the Service, the [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md) and/or the [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md), govern your use of the Service, instead of these Terms of Use for Users.
@@ -50,7 +50,7 @@ You shall use the Service at your own discretion and taking full responsibility 
 - Nordot disclaims all responsibility and liability for any loss or damage you incur in connection with any modification, interruption, suspension, or termination of the Service.
 
 ### Revision of These Terms
-You agree that Nordot may revise these Terms without obtaining your prior approval. The revised Terms shall become effective when they are posted on the Service.
+Nordot may revise these Terms by informing User. The revised Terms shall become effective and this Agreement shall be revised according to the revised Terms when it appears on the Service, the nordot.jp website, or such other system designated by Nordot, unless otherwise specified by Nordot. Notwithstanding the foregoing, revision of important provisions of these Terms shall be announced to User in advance in a method designated by Nordot, such as in an announcement on a system designated by Nordot. User who begins using the Nodot services after the revised Terms becomes effective is considrered as agreed to the revised Terms.
 
 ### Governing Law
 Establishment, effectiveness, performance, and resolution of these Terms shall be governed by the laws and regulations of Japan.
