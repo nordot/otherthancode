@@ -48,7 +48,7 @@ You must ensure that your content, including but not limited to titles, texts, i
 		1. overuse of Lead-ins of a particular Publisher such that readers are likely (in the sole judgment of Nordot) to confuse your media for part of the official media of the Publisher;
 		1. use of Lead-ins that creates the impression you are the Publisher, or operation under a misleading name;
 		1. use of Lead-ins of a particular publisher after being disapproved by the publisher and such a notification is sent in connection with the Service
-		1. use anything more than the Lead-in (meaning, with respect to the applicable Story, the title, the first 100 characters of the body text, one image and copyright information), such as, for illustrative purposes, a quotation, unless such use is permitted as fair use under applicable copyright law; and
+		1. use anything more than the Lead-in (as defined in the [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md) and the [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md).), such as, for illustrative purposes, a quotation, unless such use is permitted as fair use under applicable copyright law; and
 		1. use of images from Lead-ins without serving the purpose of directing users to the full Story page.
 
 	1. The following annotations of Curation are prohibited:
