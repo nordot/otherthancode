@@ -2,7 +2,7 @@
 
 ## Nordot Terms of Use for Publishers
 
-Updated on Mar 31, 2020
+Updated on May 12, 2020
 
 These Terms of Use (hereinafter referred to as these "TOU" or this "Agreement") shall apply between Nordot Inc., a Japanese joint-stock corporation (hereinafter referred to as "Nordot"), and you who obtains profit through, by uploading or transferring Content to, or otherwise creating Content on, the nor. Service, which is operated by Nordot, (hereinafter referred to as "Publisher"). For persons with respect to whom the foregoing sentence does not apply, the [Terms of Use for Users (Other than Members or Publishers)](https://www.nordot.jp/terms_user_en) govern your use of the Service.
 
@@ -225,11 +225,8 @@ In the event of any expiration or termination of this Agreement, Nordot shall de
 1. **English Terms of Use Govern**  
 These TOU in the English language apply in respect of every Publisher located outside of Japan. In respect of any conflict between these TOU and Nordot's [Terms of Use in the Japanese language](https://github.com/nordot/otherthancode/blob/master/tou_publishers_ja.md), these English language TOU shall govern provided that Publisher is located outside of Japan.
 
-1. **Jurisdiction**  
-For any lawsuit arising out of or in connection with this Agreement, the Tokyo District Court or the Tokyo Summary Court shall be the exclusive consensus court of jurisdiction for its first trial in response to amount of the case. Publisher and Nordot each consent to personal jurisdiction in the Tokyo District Court and Tokyo Summary Court.
-
-1. **Governing law**  
-Establishment, effect, performance and interpretation of this Agreement shall be governed by Japanese law.
+1. **Jurisdiction/Governing law**  
+For any lawsuit arising out of or in connection with this Agreement, the Tokyo District Court or the Tokyo Summary Court shall be the exclusive consensus court of jurisdiction for its first trial in response to amount of the case. Publisher and Nordot each consent to personal jurisdiction in the Tokyo District Court and Tokyo Summary Court. However, if Publisher is registered or a resident outside of Japan, this Agreement and any dispute or controversy arising out of or relating to this Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to the conflict of law principles thereof. All Actions arising out of or relating to this Agreement shall be heard and determined exclusively in any state or federal court located in New York, New York.
 
 1. **This TOU**
 	1. Nordot may revise these TOU by informing Publisher. The revised TOU shall become effective and this Agreement shall be revised according to the revised TOU when it appears on the Service, the nordot.jp website, or such other system designated by Nordot, unless otherwise specified by Nordot. Notwithstanding the foregoing, revision of important provisions of these TOU shall be announced to Publisher in advance in a method designated by Nordot, such as in an announcement on a system designated by Nordot. Publisher who begins using the Nodot services after the revised TOU becomes effective is considrered as agreed to the revised TOU.
