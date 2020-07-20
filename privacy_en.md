@@ -98,7 +98,7 @@ following:
 
 #### The Nordot service
 ##### viii.
-|Cookie Name|www.nordot.jp|
+|Cookie Name|www.nordot.app|
 |:--|:--|
 |Duration|100 years|
 |Why we use this cookie|To store your consent status on our Terms of Use for Users|
