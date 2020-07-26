@@ -7,12 +7,14 @@ These Guidelines apply to any person or entity ( "you ") who distribute content 
 You must ensure that your content, including but not limited to titles, texts, images, videos, and annotations for your curation, does not infringe, misappropriate, or otherwise violate any copyright, trademark or other intellectual property right of any third party.
 
 1. Guidelines for Storing Stories
-	1. When you store, transmit or publish the Story as set forth in the [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md) and the [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md) in or via the Service, the following Stories are prohibited:
+	1. When you store, transmit or publish the Story as set forth in the [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md) and the [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md) in or via the Service, you understand that the following Stories are prohibited:
 		1. any Story that is defamatory or infringes a third party 's intellectual property, publicity, privacy or likeness rights;
+		1. any Story that violates (or in the sole judgment of Nordot appears likely to violate) any laws or regulations, or offends public order and morals;
+		1. any Story of low editorial quality, lacking facts and deceptive;
+		1. any Story that defames other Publishers or Nordot;
 		1. any Story that is advertisement or marketing content, unless you have received prior written approval from Nordot;
-		1. any Story that is already being published as third-party content; provided that in the case of appropriately licensed third-party content, Nordot may determine in its sole discretion to accept such Story after confirming there will be no duplicate Story within the Service, especially from the originating publisher;
-		1. any Story that violates (or in the sole judgment of Nordot appears likely to violate) any laws or regulations, or offends public order and morals; and
-		1. any Story that does not conclude by itself.
+		1. any Story that is already being published as third-party content; provided that in the case of appropriately licensed third-party content, Nordot may determine in its sole discretion to accept such Story after confirming there will be no duplicate Story within the Service, especially from the originating publisher; and
+		1. unfinished Stories
 
 	1. You may include web page links in the body of your Story text if the links are relevant and serve the intellectual curiosity and interests of the readers, provided that you follow the link guidelines in the next sentence. Nordot reserves the right to, at any time, remove and/or forbid certain links or categories of links in its sole and absolute discretion.
 
