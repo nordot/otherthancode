@@ -132,6 +132,7 @@ following:
 
 ### Definition of Personal Information
 "Personal information" refers to any information relating to a living individual identifiable by name, date of birth, other descriptive characteristics contained in said information (including information which can be easily correlated with other information, thereby making a specific individual identifiable), or an individual identification code which is defined in the Act on the Protection of Personal Information (Japan).
+This definition shall not apply to individuals or entities outside of Japan and shall be governed by applicable information or data protection law of their jurisdiction.
 
 ### Collection and Usage of Personal Information
 In the following cases, Nordot may collect and use your personal information:
@@ -177,7 +178,7 @@ In the following cases, Nordot may disclose your personal information to a third
 - If you violate any laws or regulations and such disclosure becomes necessary to protect and defend the rights and property of Nordot.
 
 ### Request to Disclose, Correct, Remove, or Non-Disclose Your Personal Information
-If you ask Nordot to disclose, correct, erase, or not to share with third parties your personal information, Nordot shall respond to your request as promptly as possible in accordance with the Personal Information Protection Act of Japan, upon confirming your identity.
+If you ask Nordot to disclose, correct, erase, or not to share with third parties your personal information, Nordot shall respond to your request as promptly as possible in accordance with the Personal Information Protection Act of Japan, upon confirming your identity. For individuals or entities outside of Japan, the request to disclose, correct, remove, or non-disclose their personal information shall be governed by applicable information or data protection law of their jurisdiction.
 
 Nordot may not accept such request if your request does not meet the requirements set forth in the Personal Information Protection Act, or if there is any factor that allows us to reject such request under applicable laws and regulations, including the Personal Information Protection Act.
 
