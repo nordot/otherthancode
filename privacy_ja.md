@@ -208,6 +208,9 @@
 - GumGum Japan株式会社
 	- [プライバシーポリシー](https://gumgum.com/japan/privacy-policy)
 	- [オプトアウト](https://gumgum.com/opt-out)
+	
+- diDNA, Inc.
+	- [プライバシーポリシー](http://didna.io/privacy-policy/)
 
 ### プライバシーポリシーの改定
 当社は、個人情報の取り扱いに関する運用状況を適宜見直し、継続的な改善に努めるものとし、必要に応じて、本ポリシーを変更することがあります。変更後のプライバシーポリシーは、本サイト上で随時公表するものとします。
