@@ -209,5 +209,12 @@ Nordot may have affiliate relationships with other service providers in order to
 	- [Privacy Policy](https://gumgum.com/privacy-policy)
 	- [Opt-out](https://gumgum.com/opt-out)
 
+- diDNA, Inc.
+	- [Privacy Policy](http://didna.io/privacy-policy/)
+
+- Revcontent, LLC
+	- [Privacy Policy](https://intercom.help/revcontent2/en/articles/4430973-revcontent-privacy-policy)
+	- [Opt-out](https://www.revcontent.com/legal/optout/)
+
 ### Revision of the Privacy Policy
 Nordot shall review the status of its operation in connection with handling of Personal Information as appropriate, and make ongoing efforts for improvement. As a result, Nordot may revise this Policy when it believes doing so is appropriate. In such case, the revised Privacy Policy shall be published on this website.
