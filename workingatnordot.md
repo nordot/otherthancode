@@ -129,20 +129,19 @@
 - フロー情報：Slack
 	- ビデオ会議（Call）は事前の声かけなしでいきなりかけてOKルール
 	- 最新ステータスの共有をなるべく意識
-	- Slackが落ちたとき用バックアップ：Hangouts Chat（G Suite）
+	- Slackが落ちたとき用バックアップ：Google Chat
 	- 併用
-		- Hangouts Meet（G Suite）：カレンダーからのビデオ会議のとき
+		- Google Meet：カレンダーからのビデオ会議のとき
 		- appear.in：お客様との会話などIDベースが煩雑なとき
 	- *「open」チャンネルをSlack APIでウェブ上に一般公開予定*
 - ストック情報：Confluence
 - タスク管理：Trello
-	- なお、Board「[ノアドット改善計画](https://trello.com/b/SCv8nXo8/nor%E6%94%B9%E5%96%84%E8%A8%88%E7%94%BB)」については一般公開中。
 - ファイル管理：Dropbox
-- メール：Gmail（G Suite）
-- 予定：Googleカレンダー（G Suite）
+- メール：Gmail
+- 予定：Googleカレンダー
 
 ### ものつくり
-*tbd*
+- ストック情報・タスク管理：Notion
 
 ### ことつくり
 - セールス：HubSpot
