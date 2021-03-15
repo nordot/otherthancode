@@ -130,6 +130,28 @@ following:
 |If you wish us to delete your browsing data|n/a|
 |If you wish us to export your browsing data|n/a|
 
+##### xi.
+|Cookie Name|signupFlow|
+|:--|:--|
+|Duration|During session only|
+|Why we use this cookie|To keep the type of signup page to be displayed.|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by cms.nordot.jp domain, which may significantly lower your Nordot service experience.|
+|How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
+|If you wish us to disclose your browsing data to you or make a correction for you|n/a|
+|If you wish us to delete your browsing data|n/a|
+|If you wish us to export your browsing data|n/a|
+
+##### xii.
+|Cookie Name|i18next|
+|:--|:--|
+|Duration|During session only|
+|Why we use this cookie|To keep the display language of the pages.|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by cms.nordot.jp domain, which may significantly lower your Nordot service experience.|
+|How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
+|If you wish us to disclose your browsing data to you or make a correction for you|n/a|
+|If you wish us to delete your browsing data|n/a|
+|If you wish us to export your browsing data|n/a|
+
 ### Definition of Personal Information
 "Personal information" refers to any information relating to a living individual identifiable by name, date of birth, other descriptive characteristics contained in said information (including information which can be easily correlated with other information, thereby making a specific individual identifiable), or an individual identification code which is defined in the Act on the Protection of Personal Information (Japan).
 This definition shall not apply to individuals or entities outside of Japan and shall be governed by applicable information or data protection law of their jurisdiction.
