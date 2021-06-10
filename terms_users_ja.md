@@ -2,7 +2,7 @@
 
 ## nor.利用規約
 ### 目的
-この規約（以下「本規約」）は、ノアドット株式会社（以下「当社」）がthis.kiji.isドメインからコンテンツを配信するサービス（以下「本サービス」）によってコンテンツを閲覧するお客様の利用条件を定めるものです。本サービスを利用されるお客様は、本規約を遵守しなければなりません。なお、ノアドットが運営するサービス「nor.」を利用してコンテンツの保管、取得、配信およびそれらを通じた収益の取得を行う場合は、本規約ではなく「[nor.メンバー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_members_ja.md)」「[nor.パブリッシャー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_publishers_ja.md)」に別途同意いただく必要があります。
+この規約（以下「本規約」）は、ノアドット株式会社（以下「当社」）がnordot.appドメインからコンテンツを配信するサービス（以下「本サービス」）によってコンテンツを閲覧するお客様の利用条件を定めるものです。本サービスを利用されるお客様は、本規約を遵守しなければなりません。なお、ノアドットが運営するサービス「nor.」を利用してコンテンツの保管、取得、配信およびそれらを通じた収益の取得を行う場合は、本規約ではなく「[nor.メンバー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_members_ja.md)」「[nor.パブリッシャー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_publishers_ja.md)」に別途同意いただく必要があります。
 
 ### サービスのご利用
 本規約に同意することによって、本サービスをご利用いただけます。
