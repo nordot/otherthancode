@@ -6,7 +6,7 @@ Nordot values and respects your privacy. Nordot Inc. ("Nordot", "we", "us", and 
 ### Definition of the Service
 "The Service" refers to:
 1. the Nordot service, which allows Members whom agree to the [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md) and Publishers whom agree to the [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md) to store, retrieve, and distribute Content and to obtain profit through such activities under the terms set forth in these TOU;
-1. the this.kiji.is platform, which allows Users whom agree to the [Terms of Use for Users](https://github.com/nordot/otherthancode/blob/master/terms_users_en.md) to enjoy content from multiple publishers.
+1. the nordot.app platform, which allows Users whom agree to the [Terms of Use for Users](https://github.com/nordot/otherthancode/blob/master/terms_users_en.md) to enjoy content from multiple publishers.
 
 ### Cookies
 Nordot may use cookies in the Service. A cookie is a small piece of text stored on your computer by a website you visit. When your browser requests a page from our server, our server issues a cookie that identifies your browser. The cookie is then sent back to the server each time your browser requests a page from the server. This way our server can identify and store history or any settings you make. Please refer to [Collection and Usage of Your Browsing Data](#browsingdata) as for why we identify your browsing data.
@@ -19,7 +19,7 @@ Nordot may use cookies in the Service. A cookie is a small piece of text stored 
 Nordot shall collect and use your browsing data, based on cookies or non-cookie based data such as IP address or Geolocation as the
 following:
 
-#### The Nordot service and the this.kiji.is platform
+#### The Nordot service and the nordot.app platform
 ##### i.
 |Cookie Name|_ga|
 |:--|:--|
@@ -63,7 +63,7 @@ following:
 |If you wish us to delete your browsing data|n/a|
 |If you wish us to export your browsing data|n/a|
 
-#### The this.kiji.is platform
+#### The nordot.app platform
 ##### v.
 |Cookie Name|policy_accepted|
 |:--|:--|
@@ -79,8 +79,8 @@ following:
 |Cookie Name|cmsfootage|
 |:--|:--|
 |Duration|2 years|
-|Why we use this cookie|To offer an improved UI for customers using the Service as well as this.kiji.is platform|
-|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by this.kiji.is domain, which may significantly lower your Service experience.<br>Please note that this cookie won't be issued toward users who have never used the Service.|
+|Why we use this cookie|To offer an improved UI for customers using the Service as well as nordot.app platform|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by nordot.app domain, which may significantly lower your Service experience.<br>Please note that this cookie won't be issued toward users who have never used the Service.|
 |How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
 |If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
