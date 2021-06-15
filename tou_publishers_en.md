@@ -222,9 +222,6 @@ In the event of any expiration or termination of this Agreement, Nordot shall de
 	1. In cases where any obligation remains outstanding at the time of the end of this Agreement, these TOU shall remain applicable until said obligation is fulfilled.
 	1. The provisions of Sections 13, 15, 16, 18, 19, 25, 27, 31, 32, 34, 35, 36, 38 and this Section 33 shall survive expiration or termination of this Agreement.
 
-1. **English Terms of Use Govern**  
-These TOU in the English language apply in respect of every Publisher located outside of Japan. In respect of any conflict between these TOU and Nordot's [Terms of Use in the Japanese language](https://github.com/nordot/otherthancode/blob/master/tou_publishers_ja.md), these English language TOU shall govern provided that Publisher is located outside of Japan.
-
 1. **Jurisdiction/Governing law**  
 You are entering into this Agreement with Nordot based on your location (where you operate or where your principal place of business is)
 	1. United States: For any lawsuit arising out of or in connection with this Agreement, the Tokyo District Court or the Tokyo Summary Court shall be the exclusive consensus court of jurisdiction for its first trial in response to amount of the case. Publisher and Nordot each consent to personal jurisdiction in the Tokyo District Court and Tokyo Summary Court. However, if Publisher is registered or a resident outside of Japan, this Agreement and any dispute or controversy arising out of or relating to this Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to the conflict of law principles thereof. All Actions arising out of or relating to this Agreement shall be heard and determined exclusively in any state or federal court located in New York, New York.
