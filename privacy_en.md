@@ -163,7 +163,7 @@ In the following cases, Nordot may collect and use your personal information:
 |Personal Information that you provide|- Name<br>- Email address|
 |:--|:--|
 |Why we need your personal information|To respond to your inquiry|
-|If you don't provide your personal information|When you're a customer of the Nordot service, you may not make inquiries without providing us with your personal information. As for inquries to this.kiji.is platform, your personal information is not necessary.|
+|If you don't provide your personal information|When you're a customer of the Nordot service, you may not make inquiries without providing us with your personal information. As for inquries to nordot.app platform, your personal information is not necessary.|
 
 #### Member account registration
 |Personal Information that you provide|Email address|
