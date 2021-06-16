@@ -113,7 +113,7 @@ following:
 |:--|:--|
 |Duration|14 days|
 |Why we use this cookie|To display your last publisher account page that you used on the Nordot service dashboard|
-|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by cms.nordot.jp domain, which may significantly lower your Nordot service experience.|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by nordot.app domain, which may significantly lower your Nordot service experience.|
 |How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
 |If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
@@ -124,7 +124,7 @@ following:
 |:--|:--|
 |Duration|14 days|
 |Why we use this cookie|To keep log-in status for the Nordot service customers|
-|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by cms.nordot.jp domain, which may significantly lower your Nordot service experience.|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by nordot.app domain, which may significantly lower your Nordot service experience.|
 |How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
 |If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
@@ -135,7 +135,7 @@ following:
 |:--|:--|
 |Duration|During session only|
 |Why we use this cookie|To keep the type of signup page to be displayed.|
-|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by cms.nordot.jp domain, which may significantly lower your Nordot service experience.|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by nordot.app domain, which may significantly lower your Nordot service experience.|
 |How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
 |If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
@@ -146,7 +146,7 @@ following:
 |:--|:--|
 |Duration|During session only|
 |Why we use this cookie|To keep the display language of the pages.|
-|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by cms.nordot.jp domain, which may significantly lower your Nordot service experience.|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by nordot.app domain, which may significantly lower your Nordot service experience.|
 |How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
 |If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
