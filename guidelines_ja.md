@@ -1,6 +1,6 @@
 [English](https://github.com/nordot/otherthancode/blob/master/guidelines_en.md)
 
-## nor.コンテンツ・ガイドライン
+## ノアドット・コンテンツ・ガイドライン
 1. 目的  
 このガイドライン（以下「本ガイドライン」）は、お客様がノアドット株式会社（以下「当社」）の提供するサービス（以下「本サービス」といいます）を通じてコンテンツを配信する際の指針を定めるものです。本サービスを利用されるお客様は、本ガイドラインに準拠していただく必要があります。
 
@@ -38,11 +38,11 @@
 			1. 「続きを読む」などで別のページやウェブサイトに誘導するリンク
 
 1. キュレーションのガイドライン
-	1. 「[nor.メンバー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_members_ja.md)」「[nor.パブリッシャー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_publishers_ja.md)」に定められた所定の方法によって取得した、他のパブリッシャーの「本見出し」に対し、以下のような行為をしないでください。
+	1. 「[ノアドット・メンバー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_members_ja.md)」「[ノアドット・パブリッシャー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_publishers_ja.md)」に定められた所定の方法によって取得した、他のパブリッシャーの「本見出し」に対し、以下のような行為をしないでください。
 		1. 本見出しを改変すること
 		1. 本見出しを保存して使用し続けること（本見出しを所有するパブリッシャーが更新や削除を行った場合、それを速やかに反映できるようシステムを設計、実装してください）
 
-	1. 「[nor.メンバー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_members_ja.md)」「[nor.パブリッシャー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_publishers_ja.md)」に定められた所定の方法によって「本キュレーション」を配信する場合、本見出しに含まれる記事のタイトル自体および本文冒頭を表示している場合はその直近に、記事ページに読者を誘導するためのリンク、タップ/クリック領域、ボタンなどをメイン要素として配置してください。以下のようなキュレーションは、ガイドライン違反となります。
+	1. 「[ノアドット・メンバー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_members_ja.md)」「[ノアドット・パブリッシャー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_publishers_ja.md)」に定められた所定の方法によって「本キュレーション」を配信する場合、本見出しに含まれる記事のタイトル自体および本文冒頭を表示している場合はその直近に、記事ページに読者を誘導するためのリンク、タップ/クリック領域、ボタンなどをメイン要素として配置してください。以下のようなキュレーションは、ガイドライン違反となります。
 		1. 記事ページへの誘導要素が、本見出しから著しく離れている
 		1. 記事ページへの誘導要素が、読者が視認しにくいサイズや色味である
 		1. 本見出しのタップ/クリックによってポイントが付与されるなど読者へのリワードがある
