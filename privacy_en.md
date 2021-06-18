@@ -3,10 +3,10 @@
 ## Nordot Privacy Policy
 Nordot values and respects your privacy. Nordot Inc. ("Nordot", "we", "us", and "our") has established this Privacy Policy (this "Policy") for the Nordot service we provide (the "Service"). This Policy forms part of, and is incorporated into, our [Terms of Use for Users](https://github.com/nordot/otherthancode/blob/master/terms_users_en.md) , [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md) , and [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md) .
 
-### Definition of the Service
-"The Service" refers to:
-1. the Nordot service, which allows Members whom agree to the [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md) and Publishers whom agree to the [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md) to store, retrieve, and distribute Content and to obtain profit through such activities under the terms set forth in these TOU;
-1. the nordot.app platform, which allows Users whom agree to the [Terms of Use for Users](https://github.com/nordot/otherthancode/blob/master/terms_users_en.md) to enjoy content from multiple publishers.
+### Definition
+1. "Member" refers to a person, who agree to the Terms of Use for Members.
+1. "Publisher" refers to a person, who agree to the Terms of Use for Publishers.
+1. "User" refers to a person, who agree to the Terms of Use for Users.
 
 ### Cookies
 Nordot may use cookies in the Service. A cookie is a small piece of text stored on your computer by a website you visit. When your browser requests a page from our server, our server issues a cookie that identifies your browser. The cookie is then sent back to the server each time your browser requests a page from the server. This way our server can identify and store history or any settings you make. Please refer to [Collection and Usage of Your Browsing Data](#browsingdata) as for why we identify your browsing data.
@@ -19,7 +19,7 @@ Nordot may use cookies in the Service. A cookie is a small piece of text stored 
 Nordot shall collect and use your browsing data, based on cookies or non-cookie based data such as IP address or Geolocation as the
 following:
 
-#### The Nordot service and the nordot.app platform
+#### Cookies issued to Members, Publishers, and Users
 ##### i.
 |Cookie Name|_ga|
 |:--|:--|
@@ -63,7 +63,7 @@ following:
 |If you wish us to delete your browsing data|n/a|
 |If you wish us to export your browsing data|n/a|
 
-#### The nordot.app platform
+#### Cookies issued to Users
 ##### v.
 |Cookie Name|policy_accepted|
 |:--|:--|
@@ -96,7 +96,7 @@ following:
 |If you wish us to delete your browsing data|n/a|
 |If you wish us to export your browsing data|n/a|
 
-#### The Nordot service
+#### Cookies issued to Members and Publishers
 ##### viii.
 |Cookie Name|www.nordot.app|
 |:--|:--|
