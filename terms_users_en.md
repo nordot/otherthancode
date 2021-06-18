@@ -14,7 +14,7 @@ The Service allows you to enjoy content from multiple publishers throughout the 
 Nordot may modify, discontinue, or terminate all or part of the Service at any time, for any or no reason, without giving you any prior notice.
 
 ### Use of Browsing Data
-In connection with provision of the Service, Nordot shall use your browsing data in accordance with our [Privacy Policy](https://www.nordot.jp/privacy_en), which is hereby incorporated into, and forms part of, these Terms. You can manage your privacy settings in Privacy Policy. If you click "Agree without consent for providing your browsing data" button when Nordot's data policy consent is first presented, we will not collect your browsing data.
+In connection with provision of the Service, Nordot shall use your browsing data in accordance with our [Privacy Policy](https://github.com/nordot/otherthancode/blob/master/privacy_en.md), which is hereby incorporated into, and forms part of, these Terms. You can manage your privacy settings in Privacy Policy. If you click "Agree without consent for providing your browsing data" button when Nordot's data policy consent is first presented, we will not collect your browsing data.
 
 ### Copyright
 You shall not acquire rights to any intellectual property of Nordot or third parties by virtue of your use of the Service. You agree not to violate the intellectual property rights of Nordot or any third party in connection with your use of the Service.
