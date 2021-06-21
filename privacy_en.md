@@ -4,9 +4,9 @@
 Nordot values and respects your privacy. Nordot Inc. ("Nordot", "we", "us", and "our") has established this Privacy Policy (this "Policy") for the Nordot service we provide (the "Service"). This Policy forms part of, and is incorporated into, our [Terms of Use for Users](https://github.com/nordot/otherthancode/blob/master/terms_users_en.md) , [Terms of Use for Members](https://github.com/nordot/otherthancode/blob/master/tou_members_en.md) , and [Terms of Use for Publishers](https://github.com/nordot/otherthancode/blob/master/tou_publishers_en.md) .
 
 ### Definition
-1. "Member" refers to a person, who agree to the Terms of Use for Members.
-1. "Publisher" refers to a person, who agree to the Terms of Use for Publishers.
-1. "User" refers to a person, who agree to the Terms of Use for Users.
+1. “Member" refers to a person who agrees to the Terms of Use for Members.
+1. "Publisher" refers to the Media entity, and the person representing the Media entity in proxy either by signing up using their ID or has been set up as an administrator for the Media entity to use Nordot to provide or republish content.
+1. "User" refers to the individual who agrees to the Terms of Use for Users and will be viewing content served through Nordot.
 
 ### Cookies
 Nordot may use cookies in the Service. A cookie is a small piece of text stored on your computer by a website you visit. When your browser requests a page from our server, our server issues a cookie that identifies your browser. The cookie is then sent back to the server each time your browser requests a page from the server. This way our server can identify and store history or any settings you make. Please refer to [Collection and Usage of Your Browsing Data](#browsingdata) as for why we identify your browsing data.
