@@ -112,8 +112,8 @@ following:
 |Cookie Name|publisher_id|
 |:--|:--|
 |Duration|14 days|
-|Why we use this cookie|To display your last publisher account page that you used on the Nordot service dashboard|
-|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by nordot.app domain, which may significantly lower your Nordot service experience.|
+|Why we use this cookie|To display your last publisher account page that you used on the Service dashboard|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by nordot.app domain, which may significantly lower your Service experience.|
 |How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
 |If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
@@ -123,8 +123,8 @@ following:
 |Cookie Name|login|
 |:--|:--|
 |Duration|14 days|
-|Why we use this cookie|To keep log-in status for the Nordot service customers|
-|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by nordot.app domain, which may significantly lower your Nordot service experience.|
+|Why we use this cookie|To keep log-in status for the Service customers|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by nordot.app domain, which may significantly lower your Service experience.|
 |How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
 |If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
@@ -135,7 +135,7 @@ following:
 |:--|:--|
 |Duration|During session only|
 |Why we use this cookie|To keep the type of signup page to be displayed.|
-|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by nordot.app domain, which may significantly lower your Nordot service experience.|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by nordot.app domain, which may significantly lower your Service experience.|
 |How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
 |If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
@@ -146,7 +146,7 @@ following:
 |:--|:--|
 |Duration|During session only|
 |Why we use this cookie|To keep the display language of the pages.|
-|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by nordot.app domain, which may significantly lower your Nordot service experience.|
+|If you wish to block this cookie|Blocking is possible through your browser only. If you decide to block this cookie, however, you will be blocking all other cookies issued by nordot.app domain, which may significantly lower your Service experience.|
 |How long and where the browsing data will be stored|Your browsing data will not be stored anywhere|
 |If you wish us to disclose your browsing data to you or make a correction for you|n/a|
 |If you wish us to delete your browsing data|n/a|
@@ -163,7 +163,7 @@ In the following cases, Nordot may collect and use your personal information:
 |Personal Information that you provide|- Name<br>- Email address|
 |:--|:--|
 |Why we need your personal information|To respond to your inquiry|
-|If you don't provide your personal information|When you're a customer of the Nordot service, you may not make inquiries without providing us with your personal information. As for inquries to nordot.app platform, your personal information is not necessary.|
+|If you don't provide your personal information|When you're a customer of the Service, you may not make inquiries without providing us with your personal information. As for inquries to nordot.app platform, your personal information is not necessary.|
 
 #### Member account registration
 |Personal Information that you provide|Email address|
@@ -186,8 +186,8 @@ In the following cases, Nordot may collect and use your personal information:
 #### Creating Member Profile
 |Personal Information that you provide|- Name<br>- Other applicable information that you provide|
 |:--|:--|
-|Why we need your personal information|To create your Publisher profile and present it to your potential customers within the scope of Nordot service|
-|If you don't provide your personal information|You can still use the Nordot service without providing us with the informaton.|
+|Why we need your personal information|To create your Publisher profile and present it to your potential customers within the scope of Service|
+|If you don't provide your personal information|You can still use the Service without providing us with the informaton.|
 
 ### Management of Personal Information
 Nordot shall handle your personal information securely and shall not corrupt the information or introduce errors into it. Nordot shall take reasonable and appropriate security measures to prevent loss, destruction, alteration, or leakage of your personal information. Nevertheless, such security measures cannot guarantee the prevention of all loss, misuse or alteration of personal information, and, to the fullest extent permitted by law, we hereby disclaim any and all liability and responsibility for any damages or losses you incur in connection with such loss, misuse or alteration. When required by law, we will notify you of any such loss, misuse or alteration that may affect you, so that you can take the appropriate action for the due protection of your rights.
