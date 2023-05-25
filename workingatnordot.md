@@ -94,8 +94,6 @@
 	- 応募資格：前期中等教育（Lower secondary education or second stage of basic education）の修了。日本においては中学校の卒業などが該当。
 - 事業の安定性が高まった後は徐々に社員を減らし、最後は0人にすることを目指す。
 
-関連→[コンセプト](https://www.nordot.jp/whynordot)
-
 ## ■ 全社会議
 定例ではしない。たまに突然する。
 
