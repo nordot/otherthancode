@@ -1,5 +1,3 @@
-[English](https://github.com/nordot/otherthancode/blob/master/terms_users_en.md)
-
 ## ノアドット利用規約
 ### 目的
 この規約（以下「本規約」）は、ノアドット株式会社（以下「当社」）が提供するサービス（以下「本サービス」）を利用してコンテンツを閲覧するお客様の利用条件を定めるものです。お客様は、本規約を遵守しなければなりません。なお、本サービスを利用してコンテンツの保管、取得、配信およびそれらを通じた収益の取得を行う場合は、本規約ではなく「[ノアドット・メンバー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_members_ja.md)」「[ノアドット・パブリッシャー利用約款](https://github.com/nordot/otherthancode/blob/master/tou_publishers_ja.md)」に別途同意いただく必要があります。
