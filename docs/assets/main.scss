@@ -1,0 +1,120 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+body {
+  font: $base-font-weight 14px /1.625 Inter, Noto Sans JP, ui-sans-serif,
+    system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol,
+    Noto Color Emoji;
+  background-color: #fff;
+  color: #111827;
+}
+
+.site-header {
+  border-top: unset;
+  min-height: unset;
+}
+.site-title {
+  &.logo {
+    display: flex;
+    align-items: center;
+    svg {
+      width: 128px;
+      height: 44px;
+    }
+  }
+}
+
+.page-content {
+  padding: 64px 0;
+  text-align: justify;
+}
+
+.post-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.wrapper {
+  padding-right: 32px;
+  padding-left: 32px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure,
+.highlight {
+  margin-bottom: 16px;
+}
+
+ol {
+  display: grid;
+  gap: 0.5rem;
+  ol {
+    list-style-type: lower-alpha;
+  }
+}
+
+a {
+  word-break: break-all;
+  color: #6b7280; // gray-500
+  text-decoration: underline;
+  font-weight: 500;
+  &:visited {
+    color: #99a1af; // gray-400
+  }
+}
+
+.post-content {
+  h1 {
+    margin-top: 40px;
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
+
+  h2 {
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+  }
+
+  h3 {
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+}
+
+hr {
+  margin: 32px 0;
+  border: 0 solid #d1d5dc; // gray-300
+  border-top-width: 1px;
+}
+
+@media screen and (max-width: 800px) {
+  .wrapper {
+    padding-right: 32px;
+    padding-left: 32px;
+  }
+  .page-content {
+    h2 {
+      font-size: 1.125rem;
+    }
+    h3 {
+      font-size: 1rem;
+    }
+  }
+}

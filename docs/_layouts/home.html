@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  {{ content }}
+  {%- if site.pages.size > 0 -%}
+  <ul class="page-list">
+    {%- for my_page in site.pages -%}
+    {%- if my_page.title != null -%}
+    <li>
+      <h2>
+        <a class="page-link" href="{{ my_page.url | relative_url }}">
+          {{ my_page.title | escape }}
+        </a>
+      </h2>
+    </li>
+    {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+</div>
