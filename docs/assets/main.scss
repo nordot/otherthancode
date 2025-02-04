@@ -69,11 +69,14 @@ ol {
 
 a {
   word-break: break-all;
-  color: #6b7280; // gray-500
-  text-decoration: underline;
+  color: #1a73e8;
   font-weight: 500;
   &:visited {
-    color: #99a1af; // gray-400
+    color: #1a73e8;
+  }
+  &:hover {
+    color: #174ea6;
+    text-decoration: underline;
   }
 }
 
