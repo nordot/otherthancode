@@ -5,3 +5,5 @@ layout: default
 ---
 
 - [プライバシーポリシー](privacy)
+- [ノアドット・メンバー利用約款](tou_members)
+- [ノアドット・パブリッシャー利用約款](tou_publishers)
