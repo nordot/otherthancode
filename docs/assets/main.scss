@@ -63,7 +63,10 @@ ol {
   display: grid;
   gap: 0.5rem;
   ol {
-    list-style-type: lower-alpha;
+    list-style-type: lower-roman;
+    ol {
+      list-style-type: lower-alpha;
+    }
   }
 }
 
