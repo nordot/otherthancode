@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "エラー"
 ---
 
 <style type="text/css" media="screen">
@@ -8,17 +9,53 @@ layout: default
     max-width: 600px;
     text-align: center;
   }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
+  .container > svg{
+    width: 100%;
+  }
+  .container h1 {
+    margin: 40px 0;
+    font-size: 24px;
+    font-weight: bold;
     line-height: 1;
     letter-spacing: -1px;
+  }
+  .container p{
+    font-size: 16px;
+    line-height: 1.8;
+  }
+  .btn-page-top{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+  }
+  .btn-page-top a{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #1c1c1c;
+  }
+  .btn-page-top a:hover{
+    text-decoration: none;
+  }
+  @media screen and (max-width: 1200px) {
+    .container h1 {
+      margin: 24px 0;
+      font-size: 18px;
+      font-weight: bold;
+      line-height: 1;
+      letter-spacing: -1px;
+    }
+    .btn-page-top{
+      margin-top: 40px;
+    }
   }
 </style>
 
 <div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  {%- include not-found.svg -%}
+  <h1>お探しのページは見つかりませんでした。</h1>
+  <p>一時的にアクセスできない状況にあるか、<br>移動もしくは削除された可能性があります。</p>
+  <div class="btn-page-top">
+    <a href="https://nordot.jp">トップページへ{%- include list-arrow-right.svg -%}</a>
+  </div>  
 </div>
