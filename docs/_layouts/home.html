@@ -10,7 +10,7 @@ layout: default
   {%- if site.pages.size > 0 -%}
   <ul class="page-list">
     {%- for my_page in site.pages -%}
-    {%- if my_page.title != null -%}
+    {%- if my_page.title and my_page.exclude_from_index != true -%}
     <li>
       <a class="page-link" href="{{ my_page.url | relative_url }}">
         {{ my_page.title | escape }}
