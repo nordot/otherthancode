@@ -127,6 +127,10 @@ permalink: /privacy/
 
 [オプトアウト](https://btoptout.yahoo.co.jp/optout/index.html){:target="\_blank"}
 
+**AdNexa Innovations（事業者名：株式会社 AdNexa Innovations）**
+
+[AdNexa Innovations のプライバシーポリシー](https://adnx.jp/privacy.html){:target="\_blank"}
+
 ## (3) Mailchimp
 
 当社は、お客様へのメール配信について、The Rocket Science Group, LLC が提供するサービス「Mailchimp」を利用しており、メール配信に関するマーケティング情報を解析するため、お客様の情報を The Rocket Science Group, LLC に送信する場合があります。同社における Mailchimp での個人情報等の取り扱いについては、以下をご確認ください。
@@ -150,4 +154,4 @@ permalink: /privacy/
 ---
 
 2025 年 2 月 12 日 制定<br>
-2025 年 6 月 5 日 改定
+2025 年 9 月 25 日 改定
