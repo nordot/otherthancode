@@ -1,3 +1,9 @@
+---
+layout: page
+title: "NEWSjp 記事ガイドライン"
+permalink: /content_guidelines_newsjp/
+---
+
 1. 目的  
 このガイドライン（以下「本ガイドライン」）は、ノアドット株式会社（以下「当社」といいます）が運営するサービス「NEWSjp」（ニュースジェイピー、以下「本サービス」といいます）に記事情報を配信する際の指針を定めるものです。「[NEWSjp 配信約款](https://legal.nordot.jp/content_agreement_newsjp/){:target="\_blank"}」への同意にもとづいて記事情報を配信するパブリッシャーは、本ガイドラインに準拠していただく必要があります。
 
