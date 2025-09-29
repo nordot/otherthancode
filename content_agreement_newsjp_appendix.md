@@ -1,3 +1,9 @@
+---
+layout: page
+title: "NEWSjp 配信約款（別紙）"
+permalink: /content_agreement_newsjp_appendix/
+---
+
 |ユニット名|代表URL|
 |---|---|
 |au Webポータル|https://portal.auone.jp/|
