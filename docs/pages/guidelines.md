@@ -2,6 +2,7 @@
 layout: page
 title: "ノアドット・コンテンツガイドライン"
 permalink: /guidelines/
+exclude_from_index: true
 ---
 
 1. 目的  
