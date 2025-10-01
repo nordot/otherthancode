@@ -9,7 +9,7 @@ permalink: /content_guidelines_newsjp/
 
 1. 著作権について  
 記事情報（見出し、本文、画像、映像、音声等を含みます）が、他者の著作権を侵害しないようご注意ください。著作権に関する情報は、以下の文化庁資料をご参照ください。
-	- [著作権に関する教材・講習会 | 文化庁](https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/index.html){:target="\_blank"}
+	- [著作権に関する教材・講習会](https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/index.html){:target="\_blank"}
 
 1. 配信が禁止される本記事コンテンツ  
 「[NEWSjp 配信約款](https://legal.nordot.jp/content_agreement_newsjp/){:target="\_blank"}」に定める「本記事コンテンツ」について、以下のいずれかに該当するものは配信できません。
