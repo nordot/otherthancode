@@ -139,14 +139,6 @@ permalink: /privacy/
 
 [Mailchimp の Cookie ポリシー](https://mailchimp.com/legal/cookies/){:target="\_blank"}
 
-## (4) Zendesk
-
-当社は、お客様からのお問い合わせについて、Zendesk Inc.が提供する顧客管理プラットフォーム「Zendesk」を利用しており、お問い合わせを管理することを目的として、お客様の情報を Zendesk Inc.に送信する場合があります。Zendesk での個人情報等の取扱いについては、以下をご確認ください。
-
-[Zendesk Inc.のプライバシーポリシー](https://www.zendesk.co.jp/company/agreements-and-terms/privacy-notice/){:target="\_blank"}
-
-[Zendesk Inc.の Cookie ポリシー](https://support.zendesk.com/hc/ja/articles/4408824378650-Zendesk%E8%A3%BD%E5%93%81%E5%86%85Cookie%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%20%20%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%20%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AE%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E6%9C%89%E5%8A%B9%E3%81%AB%E3%81%99%E3%82%8B%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%20%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AE%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E6%9C%89%E5%8A%B9%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E3%80%81Ctrl+Alt+Z%20%E3%82%92%E6%8A%BC%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E3%81%AE%E8%A9%B3%E7%B4%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AF%E3%80%81Ctrl+%E3%82%B9%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20%E3%82%92%E6%8A%BC%E3%81%97%E3%81%BE%E3%81%99%E3%80%82){:target="\_blank"}
-
 # 第 4 条 プライバシーポリシーの変更について
 
 当社は、個人情報の取り扱いに関する運用状況を適宜見直し、継続的な改善に努めるものとし、必要に応じてプライバシーポリシーを変更することがあります。当社が別途定める場合を除いて、変更後のプライバシーポリシーは、本ページに掲載したときから効力が生じるものとします。
