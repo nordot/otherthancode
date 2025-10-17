@@ -2,8 +2,20 @@
   <div class="site-header--inner">
     {%- assign default_paths = site.pages | map: "path" -%} {%- assign
     page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title logo" rel="author" href="https://nordot.jp">
-      {%- include nordot-logo.svg -%}
-    </a>
+
+    {% if page.url == "/tou_nordot/" %}
+      <a class="site-title logo" href="https://nordot.app/">
+        {% include nordot-logo-service.svg %}
+      </a>
+    {% elsif page.url == "/content_agreement_newsjp/" or page.url == "/content_agreement_newsjp_appendix/" or page.url == "/content_guidelines_newsjp/" or page.url == "/terms_newsjp/" %}
+      <a class="site-title logo" href="https://news.jp/">
+        {% include newsjp-logo.svg %}
+      </a>
+    {% else %}
+      <a class="site-title logo" href="https://nordot.jp">
+        {% include nordot-logo.svg %}
+      </a>
+    {% endif %}
+
   </div>
 </header>
