@@ -4,7 +4,7 @@ title: "NEWSjp 配信約款（別紙）"
 permalink: /content_agreement_newsjp_appendix/
 ---
 
-|ユニット名|代表URL|
+|名称|代表URL|
 |---|---|
 |au Webポータル|[portal.auone.jp](https://portal.auone.jp/){:target="\_blank"}|
 |UQライフ|[www.uqwimax.jp/mobile/support/app/life/](https://www.uqwimax.jp/mobile/support/app/life/){:target="\_blank"}|
@@ -30,4 +30,4 @@ permalink: /content_agreement_newsjp_appendix/
 |河北新報|[kahoku.news](https://kahoku.news/){:target="\_blank"}|
 |Appsule|[appsule.co.jp](https://appsule.co.jp/){:target="\_blank"}|  
 
-本契約に記載されたユニット名またはURLは、2025年10月1日現在におけるものであり、将来的に変更・削除される可能性があります。当社は、このような場合において責任を負わないものとします。
+本契約に記載された名称またはURLは、2025年10月1日現在におけるものであり、将来的に変更・削除される可能性があります。当社は、このような場合において責任を負わないものとします。
