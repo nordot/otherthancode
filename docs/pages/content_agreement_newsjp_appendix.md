@@ -18,7 +18,6 @@ permalink: /content_agreement_newsjp_appendix/
 |長崎なう|[nagasakinow.net](https://nagasakinow.net/){:target="\_blank"}|
 |五島なう|[510now.net](https://510now.net/){:target="\_blank"}|
 |ORICON NEWS|[www.oricon.co.jp](https://www.oricon.co.jp/){:target="\_blank"}|
-|mobageニュース|[sp.mbga.jp/_news_top](https://sp.mbga.jp/_news_top){:target="\_blank"}|
 |GroupSession BIZ|[biz.gs.sjts.co.jp](https://biz.gs.sjts.co.jp/){:target="\_blank"}|
 |47NEWS|[www.47news.jp](https://www.47news.jp/){:target="\_blank"}|
 |NewsChat|[www.news-chat.jp](https://www.news-chat.jp/){:target="\_blank"}|
@@ -30,4 +29,4 @@ permalink: /content_agreement_newsjp_appendix/
 |河北新報|[kahoku.news](https://kahoku.news/){:target="\_blank"}|
 |Appsule|[appsule.co.jp](https://appsule.co.jp/){:target="\_blank"}|  
 
-本契約に記載された名称またはURLは、2025年10月1日現在におけるものであり、将来的に変更・削除される可能性があります。当社は、このような場合において責任を負わないものとします。
+本契約に記載された名称またはURLは、2025年11月1日現在におけるものであり、将来的に変更・削除される可能性があります。当社は、このような場合において責任を負わないものとします。
