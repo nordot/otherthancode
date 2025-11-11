@@ -27,6 +27,7 @@ permalink: /content_agreement_newsjp_appendix/
 |BCN|[www.bcnretail.com](https://www.bcnretail.com/){:target="\_blank"}|
 |nippon.com|[www.nippon.com/ja/](https://www.nippon.com/ja/){:target="\_blank"}|
 |河北新報|[kahoku.news](https://kahoku.news/){:target="\_blank"}|
-|Appsule|[appsule.co.jp](https://appsule.co.jp/){:target="\_blank"}|  
+|Appsule|[appsule.co.jp](https://appsule.co.jp/){:target="\_blank"}|
+|Samsung News|[www.samsung.com/jp/apps/samsung-news/](https://www.samsung.com/jp/apps/samsung-news/)){:target="\_blank"}|  
 
-本契約に記載された名称またはURLは、2025年11月1日現在におけるものであり、将来的に変更・削除される可能性があります。当社は、このような場合において責任を負わないものとします。
+本契約に記載された名称またはURLは、2025年11月11日現在におけるものであり、将来的に変更・削除される可能性があります。当社は、このような場合において責任を負わないものとします。
