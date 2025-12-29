@@ -145,4 +145,4 @@ permalink: /terms_newww/
 
 ---
 
-2026 年 X 月 X 日 制定
+2026 年 1 月 5 日 制定
