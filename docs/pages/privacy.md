@@ -89,7 +89,7 @@ permalink: /privacy/
 ノアドット株式会社<br>
 代表取締役 中瀨 竜太郎<br>
 
-[お問い合わせフォーム](https://nordot.app/cms/inquiry/corp){:target="\_blank"}
+[お問い合わせフォーム](https://go.nordot.link/contact){:target="\_blank"}
 
 # 第 3 条 そのほか情報の取り扱いについて
 
