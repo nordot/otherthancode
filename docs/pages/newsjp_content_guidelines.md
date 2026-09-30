@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "NEWSjp 記事ガイドライン"
-permalink: /newsjp_content_guidelines/
+permalink: /content_guidelines_newsjp/
 ---
 
 1. 目的  
