@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "NEWSjp 配信約款（別紙）"
-permalink: /content_agreement_newsjp_appendix/
+permalink: /newsjp_content_agreement_appendix/
 ---
 
 |名称|代表URL|
