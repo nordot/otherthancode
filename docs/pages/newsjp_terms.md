@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "NEWSjp 利用規約"
-permalink: /newsjp_terms/
+permalink: /terms_newsjp/
 ---
 
 ### 目的
